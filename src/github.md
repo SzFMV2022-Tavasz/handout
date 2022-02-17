@@ -9,11 +9,11 @@ A félév során a GitHubot használjuk a kód tárolására, a feladatok menedz
 
 ## Áttekintés
 
-Minden hallgató tagja lesz egy GitHub szervezetnek (`Organization`), és egy-egy csapatnak (Team A\[1-4\], Team B\[1-4\]). Minden csapat külön issue board-dal rendelkezik (`Projects`), ezen kell vezetni a feladatok (`issue`) megoldását (részletében lásd [Munkafolyamat](workflow.md)).
+Minden hallgató tagja lesz egy GitHub szervezetnek (`Organization`), és egy-egy csapatnak (Team A\[1-3\], Team B\[1-3\]). Minden csapat külön issue board-dal rendelkezik (`Projects`), ezen kell vezetni a feladatok (`issue`) megoldását (részletében lásd [Munkafolyamat](workflow.md)).
 
 Issue-t nem csak feladatra lehet felvenni, akár kérdésre is (felénk vagy más csapatok felé is), probléma megvitatására is. Ez esetben célszerű megjelölni a `type: question` címkével. 2017 őszétől csapat (`team`) szintű fórummal (`Discussions`) is rendelkezik a GitHub. A szervezeten belül a csapatok hierarchikus struktúrában vannak. A gyökér az _Everyone_, az összes többi csapat ennek tagja (Group A, Group B csapatokon keresztül). Az Everyone falára írt üzeneteket mindenki megkapja. Ezen keresztül fogunk a félév során kurzus szintű közleményeket kiadni, de bárki használhatja kommunikációra. Ugyanilyen üzenőfallal rendelkezik az összes többi csapat is, amelyre szintén bárki írhat. Ha például a Team2-ből szeretné elérni valaki a Team3-at, akkor mindösszesen annyi a dolga, hogy ír a Team3 üzenőfalára. Az _Instructors_ nevű team-en keresztül az oktatókat lehet elérni ugyanilyen módon.
 
-A comment szekciókban is élnek az @ jeles említések, ez a mi esetünkben `@ravaszla` és `@pintergreg`, ugyanígy működik csapatra is pl. `@szfmv2020-osz/team-a1`, illetve `@szfmv2020-osz/instructors ` a mi esetünkben. Csapat esetében a csapat valamennyi tagja kap értesítést az hivatkozásról.
+A comment szekciókban is élnek az @ jeles említések, ez a mi esetünkben `@IstvanPetrovics` és `@szabogaliakos`, ugyanígy működik csapatra is pl. `@szfmv2022-tavasz/team-a1`, illetve `@szfmv2022-tavasz/instructors ` a mi esetünkben. Csapat esetében a csapat valamennyi tagja kap értesítést az hivatkozásról.
 
 A GitHub valamennyi elemén használhatóak formázási lehetőségek [Markdown stílusban](https://guides.github.com/features/mastering-markdown/), kód kiemelésre is lehetőség van, amelyet több mint célszerű használni. Ehhez csak a nyelv nevét kell csak a nyitó ``` jelek után írni:
 
@@ -46,15 +46,6 @@ Létrehozásra kerültek címkék (`Labels`) négy „dimenzióban” (vagy kate
 - integration
 - question
 - user story
-
-### Állapot (status)
-
-- completed
-- duplicate
-- help wanted
-- invalid
-- pending
-- review needed
 
 ### Prioritás (priority)
 

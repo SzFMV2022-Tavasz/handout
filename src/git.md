@@ -18,7 +18,7 @@
     - inkább újrakezdőknek, ismétlés szintű
 - [Altassian Git tutoriálja](https://www.atlassian.com/git/tutorials)
 - [Git Notes for Professionals book](http://goalkicker.com/GitBook/)
-    - haladókank, nem tanítja a git használatát, de _probléma: megoldás_ alapon összefoglalja a használatának majd minden aspektusát (a Stackoverflow válaszok alapján)
+    - haladóknak, nem tanítja a git használatát, de _probléma: megoldás_ alapon összefoglalja a használatának majd minden aspektusát (a Stackoverflow válaszok alapján)
 - [Git könyv](https://git-scm.com/book/en/v2/)
     - mindent tartalmaz a gitről, gyakorlatilag a fejlesztők által írt dokumentáció
     - ["git branching in a nutshell"](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) fejezete viszont minimum ajánlott
