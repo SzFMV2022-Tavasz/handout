@@ -23,7 +23,7 @@ A repó található kezdeti kódot (skeleton) egységes alapot képez a félév 
 
 ## Átfogó kép
 
-A teljes szoftver moduljai [12 user story](sprints.md)-ra vannak bontva. Az egyes modulok a teljes szoftver egy-egy komponensét valósítják meg. A legtöbb ilyen komponens a vezérelt autón belül kap majd helyet. Azonban vannak olyan komponensek (irányítás és megjelenítés), amelyek  nem csak az autón belül, de azon kívül, a keretszoftverben működnek.
+A teljes szoftver moduljai [6 user story](sprints.md)-ra vannak bontva. Az egyes modulok a teljes szoftver egy-egy komponensét valósítják meg. A legtöbb ilyen komponens a vezérelt autón belül kap majd helyet. Azonban vannak olyan komponensek (irányítás és megjelenítés), amelyek  nem csak az autón belül, de azon kívül, a keretszoftverben működnek.
 
 ![](images/full_software.png)
 
